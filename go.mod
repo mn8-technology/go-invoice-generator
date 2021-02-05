@@ -1,4 +1,4 @@
-module github.com/mn8-technology/go-invoice-generator
+module github.com/angelodlfrtr/go-invoice-generator
 
 go 1.12
 
