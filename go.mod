@@ -17,3 +17,5 @@ require (
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v9 v9.28.0
 )
+
+replace github.com/angelodlfrtr/go-invoice-generator v0.1.2 => github.com/mn8-technology/go-invoice-generator v1.0.1
